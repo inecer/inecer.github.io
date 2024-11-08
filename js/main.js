@@ -137,7 +137,7 @@ $(function() {
     }
   });
 
-  bar.animate(0.77);
+  bar.animate(0.58);
 
   var bar = new ProgressBar.Circle(circleprog3, {
     strokeWidth: 7,
@@ -172,7 +172,7 @@ $(function() {
     }
   });
 
-  bar.animate(.82);
+  bar.animate(.90);
 
   var bar = new ProgressBar.Line(lineprog2, {
     strokeWidth: 1.72,
@@ -189,7 +189,7 @@ $(function() {
     }
   });
 
-  bar.animate(.62);
+  bar.animate(.56);
 
   var bar = new ProgressBar.Line(lineprog3, {
     strokeWidth: 1.72,
@@ -206,7 +206,7 @@ $(function() {
     }
   });
 
-  bar.animate(.37);
+  bar.animate(.52);
 
   var bar = new ProgressBar.Line(lineprog4, {
     strokeWidth: 1.72,
@@ -223,7 +223,7 @@ $(function() {
     }
   });
 
-  bar.animate(.52);
+  bar.animate(.62);
 
   var bar = new ProgressBar.Line(lineprog5, {
     strokeWidth: 1.72,
